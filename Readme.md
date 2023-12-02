@@ -18,10 +18,10 @@ API LIST
                    BODY EXAMPLE:
                         {
                         "CustomerName":"Selvan",
-                        "BookDate":"04.10.2023",
-                        "StartTime":"6PM",
-                        "EndTime":"10PM",
-                        "RoomName":"A100"
+                        "BookDate":"05.11.2023",
+                        "StartTime":"8PM",
+                        "EndTime":"12PM",
+                        "RoomName":"A101"
                         }
 
 - To get all the booked room data(GET) - http://localhost:5000/api/hall/bookedrooms
