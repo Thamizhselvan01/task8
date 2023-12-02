@@ -6,12 +6,12 @@ API LIST
 
                     BODY EXAMPLE:
                              {
-                                    "number of seats availabe": "200",
+                                    "number of seats availabe": "100",
                                     "Aminities": " --- A/C and NON-A/C rooms--\n ---Parking fesilities---\n ---Kitchen and Food preparation area ",
-                                    "Price for 1 Hour": "Just only RS 1000"
+                                    "Price for 1 Hour": "Just only RS 1600"
                                   }
 
-- To Book a room(POST) - http://localhost:4000/api/hall/book
+- To Book a room(POST) - http://localhost:5000/api/hall/book
 
                 * Send details in body as json
 
